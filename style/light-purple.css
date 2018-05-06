@@ -1,0 +1,94 @@
+/*
+ *Theme:B&W Hosting
+ *Creator:imzlab
+ *website:imzlab.com
+ */
+/************Purple Theme**************/
+.brand-color{
+	color:#9b59b6;
+}
+.client-area{
+	background-color:#9b59b6;
+	border-radius:5px;
+}
+.nav-item:hover{
+	background-color:#9b59b6;
+	border-radius:5px;
+	display:block;
+	
+}
+.theme-bg-color{
+	background-color:#9b59b6;
+}
+.theme-border-color{
+		border-color:#9b59b6;
+}
+.theme-color{
+	color:#9b59b6;
+}
+.theme-stroke{
+	stroke:#9b59b6;
+}
+.fa{
+	color:#9b59b6;
+}
+.card-header{
+	border-color:#9b59b6;
+}
+.btn{
+	background-color:#9b59b6;
+	border-color:#9b59b6;
+}
+.btn:hover{
+	background-color:#8e44ad;
+	border-color:#8e44ad;
+}
+
+.form-control{
+	border:1px solid #8e44ad !important;
+}
+input:focus,
+select:focus,
+textarea:focus{
+  box-shadow: 0 2px 2px rgba(113, 59, 135, 0.075) inset, 0 0 8px rgba(113, 59, 135, 0.6) !important;
+  outline: 0 none;
+}
+.card{
+	border:1px solid #9b59b6 !important;
+}
+.contact-details{
+	background-color:#713b87 !important;
+}
+.block-first{
+	padding:5px;
+	background-color:#713b87;
+	
+}
+.block-second{
+	padding:5px;
+	background-color:#713b87;
+	border-left:1px solid white;
+}
+.block-third{
+	padding:5px;
+	background-color:#713b87;
+	border-left:1px solid white;
+}
+.block-fourth{
+	padding:5px;
+	background-color:#713b87;
+	border-left:1px solid white;
+}
+/******************FAQ********************/
+.integration-list ul > li {
+    border-top: 1px solid #9b59b6;
+}
+.integration-list ul:last-child {
+    border-bottom: 1px solid #9b59b6;
+}
+.right-arrow{
+	color:#9b59b6;
+}
+.slider .indicators .indicator-item.active {
+    background-color: #9b59b6;
+}
