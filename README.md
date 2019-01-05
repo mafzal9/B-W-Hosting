@@ -1,5 +1,5 @@
 # B-W-Hosting
-B&amp;W is an open source responsive template for web hosting company. which is buit by HTML5, CSS3, Boostrap, and avilable open source for public and commerical usage.
+B&amp;W is an open source responsive <b>template</b> for web hosting company. which is buit by HTML5, CSS3, Boostrap, and avilable open source for public and commerical usage.
 
 B&W Hosting Theme is avilable in 6 color variateions. style sheets are avilable in style folder with the color name. just change the stylesheet in index.html to change default color variation.
 
