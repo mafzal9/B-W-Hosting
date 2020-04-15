@@ -5,4 +5,4 @@ B&W Hosting Theme is avilable in 6 color variateions. style sheets are avilable 
 
 to disable color select control just move to end of file and comment the color picker section to disable color picker control.
 
-Live Demo is avilable at https://strap.host/
+Live Demo is avilable at https://babyhoster.com/
